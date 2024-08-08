@@ -1,0 +1,14 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\bin\Debug\net6.0\OrtalamaHesaplama.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\refint\OrtalamaHesaplama.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\OrtalamaHesaplama.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\OrtalamaHesaplama\obj\Debug\net6.0\ref\OrtalamaHesaplama.dll

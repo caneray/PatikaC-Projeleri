@@ -1,0 +1,14 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\bin\Debug\net6.0\DaireCizme.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\bin\Debug\net6.0\DaireCizme.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\bin\Debug\net6.0\DaireCizme.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\bin\Debug\net6.0\DaireCizme.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\bin\Debug\net6.0\DaireCizme.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\DaireCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\DaireCizme.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\DaireCizme.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\DaireCizme.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\DaireCizme.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\refint\DaireCizme.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\DaireCizme.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\DaireCizme.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\DaireCizme\obj\Debug\net6.0\ref\DaireCizme.dll
