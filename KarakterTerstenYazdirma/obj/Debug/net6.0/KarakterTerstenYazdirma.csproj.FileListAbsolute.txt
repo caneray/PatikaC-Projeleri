@@ -1,0 +1,14 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\bin\Debug\net6.0\KarakterTerstenYazdirma.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\bin\Debug\net6.0\KarakterTerstenYazdirma.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\bin\Debug\net6.0\KarakterTerstenYazdirma.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\bin\Debug\net6.0\KarakterTerstenYazdirma.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\bin\Debug\net6.0\KarakterTerstenYazdirma.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\KarakterTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\KarakterTerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\KarakterTerstenYazdirma.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\KarakterTerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\KarakterTerstenYazdirma.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\refint\KarakterTerstenYazdirma.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\KarakterTerstenYazdirma.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\KarakterTerstenYazdirma.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\KarakterTerstenYazdirma\obj\Debug\net6.0\ref\KarakterTerstenYazdirma.dll

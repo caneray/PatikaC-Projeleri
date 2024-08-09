@@ -1,0 +1,14 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\bin\Debug\net6.0\IntegerToplamlari.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\bin\Debug\net6.0\IntegerToplamlari.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\bin\Debug\net6.0\IntegerToplamlari.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\bin\Debug\net6.0\IntegerToplamlari.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\bin\Debug\net6.0\IntegerToplamlari.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\IntegerToplamlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\IntegerToplamlari.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\IntegerToplamlari.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\IntegerToplamlari.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\IntegerToplamlari.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\refint\IntegerToplamlari.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\IntegerToplamlari.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\IntegerToplamlari.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\IntegerToplamlari\obj\Debug\net6.0\ref\IntegerToplamlari.dll

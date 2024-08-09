@@ -1,0 +1,14 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\refint\AlanHesaplama.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\AlanHesaplama\obj\Debug\net6.0\ref\AlanHesaplama.dll
