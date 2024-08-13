@@ -1,0 +1,14 @@
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.exe
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.deps.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.runtimeconfig.json
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\bin\Debug\net6.0\SessizHarf.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.AssemblyInfo.cs
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\refint\SessizHarf.dll
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.pdb
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\SessizHarf.genruntimeconfig.cache
+C:\Users\caner\Documents\GitHub\PatikaCSharpProjeleri\SessizHarf\obj\Debug\net6.0\ref\SessizHarf.dll

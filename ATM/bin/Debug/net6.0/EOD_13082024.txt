@@ -1,0 +1,9 @@
+Gün Sonu Raporu
+=================
+İşlemler:
+Para Çekme - Kullanıcı: user1, Miktar: 100, Tarih: 13.08.2024 13:55:04
+Para Yatırma - Kullanıcı: user1, Miktar: 4100, Tarih: 13.08.2024 13:55:15
+Ödeme Yapma - Kullanıcı: user1, Miktar: 8500, Tarih: 13.08.2024 13:55:25
+
+Hatalı Giriş Denemeleri:
+Hatalı giriş denemesi: caner, 13.08.2024 13:55:17
